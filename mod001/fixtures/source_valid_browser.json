@@ -1,0 +1,16 @@
+{
+  "source_id": "gold_browser",
+  "collector_type": "BROWSER",
+  "enabled": true,
+  "endpoint": "https://provider.example/gold",
+  "auth_ref": "secret://gold-api-key",
+  "request_parameters": {
+    "symbol": "XAUUSD"
+  },
+  "timeout_ms": 5000,
+  "retry_policy": {
+    "max_attempts": 3
+  },
+  "config_version": 1,
+  "browser_profile": "default"
+}

@@ -1,0 +1,6 @@
+{
+  "collector_type": "INVALID",
+  "enabled": "true",
+  "timeout_ms": 0,
+  "retry_policy": {}
+}

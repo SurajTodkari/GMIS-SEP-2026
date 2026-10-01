@@ -1,0 +1,12 @@
+{
+  "job_id": "JOB-000001",
+  "source_id": "gold_api",
+  "collector_type": "API",
+  "schedule_id": "SCHEDULE-001",
+  "attempt_no": 1,
+  "created_at": "2026-10-01T10:00:00Z",
+  "scheduled_for": "2026-10-01T10:01:00Z",
+  "trace_id": "TRACE-001",
+  "config_version": 1,
+  "source_config_version": 1
+}

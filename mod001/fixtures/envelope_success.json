@@ -1,0 +1,27 @@
+{
+  "acquisition_id": "ACQ-000001",
+  "job_id": "JOB-000001",
+  "source_id": "gold_api",
+  "collector_type": "API",
+  "source_message_id": null,
+  "source_timestamp": "2026-10-01T10:01:00Z",
+  "acquired_at": "2026-10-01T10:01:01Z",
+  "completed_at": "2026-10-01T10:01:01.200Z",
+  "status": "SUCCESS",
+  "attempt_no": 1,
+  "retry_count": 0,
+  "content_type": "application/json",
+  "encoding": "UTF-8",
+  "raw_payload": {
+    "symbol": "XAUUSD",
+    "price": 3850.25
+  },
+  "payload_hash": "sha256:placeholder",
+  "raw_size_bytes": 42,
+  "collector_version": "1.0.0",
+  "config_version": 1,
+  "trace_id": "TRACE-001",
+  "request_id": "REQ-001",
+  "error_code": null,
+  "error_message": null
+}

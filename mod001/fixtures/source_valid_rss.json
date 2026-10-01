@@ -1,0 +1,15 @@
+{
+  "source_id": "gold_rss",
+  "collector_type": "RSS",
+  "enabled": true,
+  "endpoint": "https://provider.example/gold/feed",
+  "auth_ref": "secret://gold-api-key",
+  "request_parameters": {
+    "symbol": "XAUUSD"
+  },
+  "timeout_ms": 5000,
+  "retry_policy": {
+    "max_attempts": 3
+  },
+  "config_version": 1
+}
